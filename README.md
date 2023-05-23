@@ -2,7 +2,7 @@ RevisaFeaturesPlus
 =========================
 
 ## Overview
-Features by Itertarion with Stories Group by Initiative
+Features by Iteration with Stories Group by Initiative
 =========================
 
 ## Overview
