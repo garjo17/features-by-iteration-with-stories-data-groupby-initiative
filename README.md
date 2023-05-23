@@ -8,6 +8,7 @@ Features by Iteration with Stories Group by Initiative
 ## Overview
 ![](foto.png)
 
+![] (foto1.png)
 
 This app is vailable AS IS. It is NOT supported by Rally.
 
