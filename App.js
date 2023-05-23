@@ -219,7 +219,7 @@ Ext.define('CustomApp', {
   _createGrid: function(features) {
   var featureStore = Ext.create('Rally.data.custom.Store', {
       data: features,
-      pageSize: Infinity,
+      pageSize: 1000,
       remoteSort:false,
       groupField: 'Iniciative'
   });
