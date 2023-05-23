@@ -2,6 +2,24 @@ RevisaFeaturesPlus
 =========================
 
 ## Overview
+Features by Release with Stories
+=========================
+
+## Overview
+![](pic.png)
+
+
+The app was developed further to add a 'Property' column based on a custom field of dropdown type: Property.
+In this workspace, objects of PortfolioItem type have custom field Property:
+
+![](pic2.png)
+
+The Features also grouped by the Property field:
+
+![](pic3.png)
+
+This app is vailable AS IS. It is NOT supported by Rally.
+
 
 
 ## License
